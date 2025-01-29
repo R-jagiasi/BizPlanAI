@@ -4,16 +4,6 @@ Turn your entrepreneurial vision into reality in just moments! Craft your busine
 ## Quick Start
 Kickstart the React Frontend by stepping into the /client directory. Set up the necessary packages with npm install and fire it up using npm start.
 
-## Examples
-Raj's Café Venture
-BizplanAI Crafted Business Plan for Artisan Coffee Shop.
-Priya's Tech Startups
-BizplanAI Drafted Business Plan on Sustainable Tech Gadgets.
-Anil's Boutique Bazaar
-BizplanAI Designed Business Plan for Handcrafted Clothing Line.
-Meena's EduTech Initiative
-BizplanAI Developed Business Plan for Online Learning Platforms.
-
 ## Inspiration
 Ever had a brilliant startup idea? You're likely brimming with vision and dreams. However, when it's time to execute, the path isn't always clear. That’s where BizplanAI steps in - your personal AI-powered business plan architect! Drawing from our own startup challenges, I’ve developed this tool to simplify your journey from idea to execution, empowering aspiring entrepreneurs across India and beyond.
 
