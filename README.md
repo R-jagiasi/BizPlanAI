@@ -15,7 +15,7 @@ Meena's EduTech Initiative
 BizplanAI Developed Business Plan for Online Learning Platforms.
 
 ## Inspiration
-Ever had a brilliant startup idea? You're likely brimming with vision and dreams. However, when it's time to execute, the path isn't always clear. That’s where BizplanAI steps in - your personal AI-powered business plan architect! Drawing from our own startup challenges, we’ve developed this tool to simplify your journey from idea to execution, empowering aspiring entrepreneurs across India and beyond.
+Ever had a brilliant startup idea? You're likely brimming with vision and dreams. However, when it's time to execute, the path isn't always clear. That’s where BizplanAI steps in - your personal AI-powered business plan architect! Drawing from our own startup challenges, I’ve developed this tool to simplify your journey from idea to execution, empowering aspiring entrepreneurs across India and beyond.
 
 ## What It Does
 Introducing BizplanAI - a revolutionary AI-driven business plan creator that alleviates the hassle of starting from scratch. Just input your business concept, your name, budget, and intended business name into our web interface. Our AI handles the rest, delivering a tailored and detailed business PDF plan. Welcome to a new era of simplicity, efficiency, and clarity in business planning.
@@ -23,7 +23,7 @@ Introducing BizplanAI - a revolutionary AI-driven business plan creator that all
 ## How We Built It
 We utilized Tailwind CSS and React for a sleek, interactive front-end experience, featuring a parallax effect for engaging user interaction. The backend integration is managed via an AWS Lambda function, leveraging the OpenAI API for dynamic text generation. The final business plan is formatted into a PDF using the fPDF library and delivered through the IPFS network, ensuring a seamless user experience from front to back.
 
-## Challenges We Faced
+## Challenges Faced
 - The integration of a parallax scrolling effect on the frontend was both challenging and rewarding, requiring meticulous attention throughout the development process.
 - Harnessing AWS Lambda proved demanding, particularly with minimal initial guidance. However, persistent debugging and strategic problem-solving enabled successful integration.
 
